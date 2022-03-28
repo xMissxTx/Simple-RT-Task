@@ -2,7 +2,7 @@
 /* Change 1: Adding the image hosting site */
 // define the site that hosts stimuli images
 // usually https://<your-github-username>.github.io/<your-experiment-name>/
-var repo_site = "https://kywch.github.io/Simple-RT-Task/"; 
+var repo_site = "https://xMissxTx.github.io/Simple-RT-Task/"; 
 
 /* create timeline */
 var timeline = [];
